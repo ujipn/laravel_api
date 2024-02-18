@@ -1,3 +1,15 @@
+<p>実装したプロダクトの概要</p>
+<p>NEXT.jsとapi連携しました！</p>
+<p>工夫した点</p>
+ドキュメントと動画を探しまくり参考になるものを身ながら、NextjsとLaravelを組み合わせました。
+<a href="https://www.youtube.com/watch?v=f7vucFXxEPo">youtubeです</a>
+<a href="https://laravel.com/docs/10.x">ドキュメントです</a>
+<a href="https://github.com/laravel/breeze-next">githubです</a>
+
+<p>苦戦した点</p>
+サーバー側とフロント側が全然つながらない！！
+GPTに聞きながら3時間ほどかけて実装しました。。
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
